@@ -3,4 +3,4 @@ The ASL Recognition project involves creating a CNN using PyTorch to classify im
 
 Results:
 
-![](https://github.com/sula234/ASL_Recognition/ASL.gif)
+![](https://github.com/sula234/ASL_Recognition/blob/main/ASL.gif)

@@ -6,4 +6,4 @@
 
 # Результаты работы:
 
-![]([name-of-giphy.gif](https://github.com/sula234/ASL_Recognition/blob/main/ASL.gif))
+![](https://github.com/sula234/ASL_Recognition/blob/main/ASL.gif)

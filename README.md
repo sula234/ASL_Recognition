@@ -1,9 +1,7 @@
-# Распознавание Американского Языка Жестов
-Проект ASL Recognition включает в себя создание CNN с использованием PyTorch для классификации изображений американского языка жестов в реальном времени.
-
-# Отчет появится в будущем.
+# American Sign Language Recognition
+The ASL Recognition project involves building a CNN using PyTorch to classify American Sign Language images in real time.
 
 
-# Результаты работы:
+# Results:
 
 ![](https://github.com/sula234/ASL_Recognition/blob/main/ASL.gif)
